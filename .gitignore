@@ -1,1 +1,29 @@
+# Build Folders
+# Ignore build and Visual Studio-specific folders
+obj/
+.vs/
+TodoApi/obj/
+
+# User-specific Files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio-specific Files
+.vs/
+.vscode/
+
+# Dependencies
+packages/
+node_modules/
+
+# Logs and Generated Files
+*.log
+*.tlog
+
+# Temporary Files
+*.tmp
+*.cache
+*.pid
 
