@@ -1069,11 +1069,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Amali\\Documents\\Projects\\TodoApi\\TodoApi\\TodoApi.csproj",
+      "projectUniqueName": "C:\\Users\\Amali\\Documents\\Projects\\TestApi\\TodoApi\\TodoApi.csproj",
       "projectName": "TodoApi",
-      "projectPath": "C:\\Users\\Amali\\Documents\\Projects\\TodoApi\\TodoApi\\TodoApi.csproj",
+      "projectPath": "C:\\Users\\Amali\\Documents\\Projects\\TestApi\\TodoApi\\TodoApi.csproj",
       "packagesPath": "C:\\Users\\Amali\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Amali\\Documents\\Projects\\TodoApi\\TodoApi\\obj\\",
+      "outputPath": "C:\\Users\\Amali\\Documents\\Projects\\TestApi\\TodoApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
